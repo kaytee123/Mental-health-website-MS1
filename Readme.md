@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Untitled](https://user-images.githubusercontent.com/65018106/104660478-89c38800-56be-11eb-8f0e-a81bbe5a5d09.png)
 The live website can be found [here](https://github.com/kaytee123/Mental-health-website-MS1)
 
@@ -148,3 +149,6 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 
 
+=======
+![Untitled](https://user-images.githubusercontent.com/65018106/104660478-89c38800-56be-11eb-8f0e-a81bbe5a5d09.png)
+>>>>>>> 43a9700bcfed8c95a60e8e3570e56965a06ce3cb
